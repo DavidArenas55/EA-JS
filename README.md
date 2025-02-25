@@ -43,3 +43,7 @@ Ejecutar JS
 node main.js
 ```
 Enlace al video https://youtu.be/etEbn8aU6hA
+
+Referencies: 
+- https://jsonplaceholder.typicode.com/
+- ChatGPT
